@@ -1,0 +1,5 @@
+log/*
+Makefile
+outputs/*
+report/*
+scripts/*
